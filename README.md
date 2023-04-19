@@ -1,0 +1,1 @@
+This is my PyTorch implementation of Transformer from original paper "Attention Is All You Need".
