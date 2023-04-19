@@ -1,1 +1,1 @@
-This is my PyTorch implementation of Transformer from original paper "Attention Is All You Need".
+This is my PyTorch implementation of Transformer from scratch of original paper "Attention Is All You Need".
